@@ -1,0 +1,13 @@
+/* Banneri */
+
+.hero {
+  height: 60vh;
+  background-image: url("banneri.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* Baarit */
+.skills {
+  max-width: 400px;
+}
