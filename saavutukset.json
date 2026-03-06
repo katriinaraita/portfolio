@@ -1,0 +1,22 @@
+{
+  "achievements": [
+    {
+      "icon": "🦊",
+      "title": "Kettujen karkoitusprojekti",
+      "year": "2025",
+      "description": "Useita kettuja häädetty lähialueen turvaamiseksi."
+    },
+    {
+      "icon": "🧹",
+      "title": "Siivousvastaava",
+      "year": "2019–",
+      "description": "Pitää huolta siitä, että lattialle tippuneet ruoat siivotaan välittömästi ja lattia nuollaan puhtaaksi."
+    },
+    {
+      "icon": "🛋️",
+      "title": "Sohvan mukavuusvastaava",
+      "year": "2019–",
+      "description": "Pitää huolen siitä, että sohva pysyy mukavana ja hyvänä nukkua."
+    }
+  ]
+}
